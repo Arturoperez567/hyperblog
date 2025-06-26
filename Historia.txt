@@ -19,3 +19,4 @@ Alejandro esta en grado parvulos
 =======
 El hijo mayor está en la universidad 
 >>>>>>> 270b51401b943bdac67fcfd3258b7befdd8ba771
+26 de junio se hizo la actualizacion a git hub y fue exitosa
