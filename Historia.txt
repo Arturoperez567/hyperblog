@@ -12,4 +12,6 @@ el nombre de los hijos es: Juan José, Miguel Angel y Alejandro
 
 y todos 3 estudian
 
-Miguel Angel está en el grado trancisión
+Miguel Angel está en el grado trancision 
+
+Alejandro esta en grado parvulos
